@@ -1,8 +1,6 @@
-# README
+# PROJECT 2 - Consensus From Trust
 
 CPSC 459 BLOCKCHAIN TECHNOLOGIES
-
-PROJECT 2 - Consensus From Trust
 
 ## TEAM MEMBERS:
 
